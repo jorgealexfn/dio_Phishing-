@@ -15,3 +15,4 @@ Configurando o Phishing no kali linux
 - URL para clone: http://www.facebook.com
 
 Resultado:
+![printinh](https://github.com/user-attachments/assets/cf093142-c944-48a1-913e-cf3a7ca0e84d)
